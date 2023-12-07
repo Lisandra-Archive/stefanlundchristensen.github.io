@@ -1,3 +1,2 @@
-This is an example site used for solely for testing purposes. **It is not meant to be used as a template for your site**. 
-
-To create a new site, please use the starter template: [CaiJimmy/hugo-theme-stack-starter](https://github.com/CaiJimmy/hugo-theme-stack-starter/)
+This is my small magic Obsidian to github pages with customer domain and a few
+other things in place. 
