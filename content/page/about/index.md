@@ -6,8 +6,7 @@ aliases:
   - about-me
   - about-stefan
   - contact
-license: CC BY-NC-ND
-lastmod: '2020-10-09'
+lastmod: '2023-12-07'
 menu:
     main:
         weight: -90
@@ -15,4 +14,4 @@ menu:
             icon: user
 ---
 
-Stefan is my name..
+Stefan is my name.. You can reach me on stefan_christensen at protonmail.com
