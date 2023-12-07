@@ -6,6 +6,7 @@ slug: "archives"
 menu:
     main:
         weight: -70
-        params: 
+        params:
             icon: archives
 ---
+You can find my contact details on my CV, it is accessible on the left sidebar of the website.
