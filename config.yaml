@@ -45,7 +45,7 @@ params:
 
     sidebar:
         emoji: ⚙️
-        subtitle: Knowledge is best shared.
+        subtitle: A place to share, play and learn.
         avatar:
             enabled: false
             local: true
@@ -185,35 +185,35 @@ menu:
     main: []
 
     social:
-        - identifier: CV
-          name: CV
-          url: https://mathisgauthey.github.io/CV/
-          params:
-              icon: CV
+      #  - identifier: CV
+      #    name: CV
+      #    url: https://mathisgauthey.github.io/CV/
+      #    params:
+      #        icon: CV
 
-        - identifier: CV-pdf
-          name: CV-pdf
-          url: https://mathisgauthey.github.io/CV-pdf/
-          params:
-              icon: CV-pdf
+      #  - identifier: CV-pdf
+      #    name: CV-pdf
+      #    url: https://mathisgauthey.github.io/CV-pdf/
+      #    params:
+      #        icon: CV-pdf
 
         - identifier: linkedin
           name: Linkedin
-          url: https://www.linkedin.com/in/mathisgauthey/
+          url: https://www.linkedin.com/in/stefanlchristensen/
           params:
               icon: brand-linkedin
 
         - identifier: github
           name: GitHub
-          url: https://github.com/mathisgauthey
+          url: https://github.com/stefanlundchristensen
           params:
               icon: brand-github
 
-        - identifier: stackoverflow
-          name: StackOverflow
-          url: https://stackoverflow.com/users/18775070/mathisgauthey
-          params:
-              icon: brand-stackoverflow
+      #  - identifier: stackoverflow
+      #    name: StackOverflow
+      #    url: https://stackoverflow.com/users/18775070/mathisgauthey
+      #    params:
+      #        icon: brand-stackoverflow
 
 related:
     includeNewer: true
